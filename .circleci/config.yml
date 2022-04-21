@@ -64,3 +64,30 @@ workflows:
   say-hello-workflow12:
     jobs:
       - say-hello
+  say-hello-workflow13:
+    jobs:
+      - say-hello
+  say-hello-workflow14:
+    jobs:
+      - say-hello3
+  say-hello-workflow15:
+    jobs:
+      - say-hello
+  say-hello-workflow16:
+    jobs:
+      - say-hello
+  say-hello-workflow17:
+    jobs:
+      - say-hello3
+  say-hello-workflow18:
+    jobs:
+      - say-hello
+  say-hello-workflow19:
+    jobs:
+      - say-hello
+  say-hello-workflow20:
+    jobs:
+      - say-hello3
+  say-hello-workflow21:
+    jobs:
+      - say-hello
